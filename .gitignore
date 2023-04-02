@@ -1,0 +1,5 @@
+*.o
+*.exe
+differential_evolution
+Makefile
+Doxyfile
